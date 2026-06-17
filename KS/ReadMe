@@ -1,0 +1,12 @@
+Peform the following steps to produce the plots in the figures.
+
+1. Navigate to the "Generate_Data" folder.
+  - run data_gen.m (to generate the raw, noise corrupted data)
+  - run data_filter.m (to filter the data with wavelets or polynomial test functions)
+
+2. Navigate to the various "Forecast_X" folders or the "Validation_Sensitivity" folder, and run the desired code.
+  - the two numbers at the end of each script refer to the noise level, with 00 aligned with sigma = 0, 01 aligned with sigma = 0.01, and so forth.
+  - the code can take a considerable length of time to run
+  - the code will produce output files to be used for plotting
+
+3. Navigate to the "Plots" folder, and run the desired code.
