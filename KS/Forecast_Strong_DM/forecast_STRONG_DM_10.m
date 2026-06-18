@@ -421,7 +421,7 @@ for nnn = 1:50
 end
 
 %save everything
-save('KS_strong_10.mat', 'TrialResults', '-v7.3');
+save('KS_DM_strong_10.mat', 'TrialResults', '-v7.3');
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
