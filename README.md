@@ -8,7 +8,8 @@ To produce plots associated with the Lorenz-63 system, navigate to the L63 folde
 The code to generate the necessary data is included.
 
 To produce plots associated with the Kuramoto-Shivashinsky system, navigate to the KS folder.
-The code to generate the necessary data is adapted from the manuscript "Learning Solution Operator of Dynamical Systems with Diffusion Maps Kernel Ridge Regression".
+The code to generate the necessary data is adapted from the manuscript "Learning Solution Operator of Dynamical Systems with Diffusion Maps Kernel Ridge Regression". 
+This data is available upon request.
 
 To produce plots associated with the Community Challenge experimental fluid data, navigate to the CC folder.
 The data is available at https://fluids-challenge.engin.umich.edu/ under the "Challenge 2" section.
